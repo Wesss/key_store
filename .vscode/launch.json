@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KeyStoreMain",
+            "request": "launch",
+            "mainClass": "KeyStoreMain",
+            "projectName": "key_store_86e0686c"
+        }
+    ]
+}
