@@ -1,4 +1,6 @@
-# Key Store CLIE
+# Key Store CLI
+
+This is my solution to the key store CLI assignment. Its written using Java, and configured using Maven. Given the clean nature of this assignment, I've also included unit tests in order to make my testing go faster.
 
 ## Setup
 - download java jdk 12.0.1
@@ -30,9 +32,3 @@
   ```
   mvn test
   ```
-
-
-Run via
-```
-mvn package && java -jar target/keystore-1.0-SNAPSHOT.jar
-```
