@@ -16,7 +16,9 @@ public class KeyStoreMain {
             String command = line.next();
             switch (command) {
                 case "SET" :
-                    keyStore.set();
+                    String key = line.next();
+                    String value = line.next();
+                    keyStore.set(key, value);
                     break;
                 default :
                     System.out.println("Command not recognized");
