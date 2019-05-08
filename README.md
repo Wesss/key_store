@@ -4,7 +4,7 @@ This is my solution to the key store CLI assignment. Its written using Java, and
 
 ## Setup
 - download java jdk 12.0.1
-  - download can be found [here] (https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)
+  - download can be found [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)
 
 - download and install maven 3.6.1
   - download can be found [here](https://maven.apache.org/download.cgi?Preferred=http%3A%2F%2Fapache.claz.org%2F)
