@@ -1,4 +1,4 @@
 Run via
 ```
-java src/keyStore/KsyStoreMain.java
+mvn package && java -jar target/keystore-1.0-SNAPSHOT.jar
 ```
